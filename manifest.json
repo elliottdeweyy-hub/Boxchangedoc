@@ -1,0 +1,13 @@
+{
+  "name": "CardioBox Pro",
+  "short_name": "CardioBox",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "assets/logo.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
